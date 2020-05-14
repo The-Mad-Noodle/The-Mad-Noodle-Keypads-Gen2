@@ -18,7 +18,7 @@
 
 1. Vist [QMK's Github](https://github.com/qmk/qmk_firmware) and clone download current release
 2. Place the enitre `qmk_firmware` in the directory you plan on working out of
-3. Copy the entire `Mad Noodle Keypads Gen2/QMK Source Code/themadnoodle` folder to `qmk_firmware/keyboards` directory to the QMK firmware folder you just downloaded
+3. Copy the entire `Mad Noodle Keypads Gen2/QMK Source Code/themadnoodle` folder to `qmk_firmware/keyboards` directory of the QMK firmware folder you just downloaded
 
 Then your good to go! <br>
 Modify your keymaps to your desired layout and follow the instructions on https://docs.qmk.fm/ to compile your new firmware
