@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x1701
-#define DEVICE_VER 		0x0001
+#define DEVICE_VER      0x0001
 #define MANUFACTURER    The Mad Noodle
 #define PRODUCT         Noodle Pad v1
 #define DESCRIPTION     Noodle Pad macro keypad
@@ -48,5 +48,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION ROW2COL
-
-#define TAPPING_TERM 200
