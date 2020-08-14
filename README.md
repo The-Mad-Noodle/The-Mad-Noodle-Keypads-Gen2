@@ -44,4 +44,4 @@ Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/ne
 8. When the flashing is complete, your console should show indication of a sucessful flash and device disconnected.
 9. Congrats! Your keypad is now sucsessfully flashed with your new Keymap! 
 
-If you are having issues feel free to reach out via our contact form at https://www.madnoodleprototypes.com/contact
+>If you are having issues feel free to reach out via our contact form at https://www.madnoodleprototypes.com/contact
