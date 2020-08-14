@@ -16,7 +16,10 @@
 
 #### Installing current Mad Noodle keyboard folder to QMK firmware
 
+>Currently, QMKs official repository is completly up to date with our current release, so please disrgard steps 2 & 3.
+
 1. Vist [QMK's Github](https://github.com/qmk/qmk_firmware) and clone download current release
+<br><br>Optional (If QMK is not up to date with the current release):
 2. Place the enitre `qmk_firmware` in the directory you plan on working out of
 3. Copy the entire `Mad Noodle Keypads Gen2/QMK Source Code/themadnoodle` folder to `qmk_firmware/keyboards` directory of the QMK firmware folder you just downloaded
 
